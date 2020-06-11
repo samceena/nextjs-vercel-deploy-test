@@ -1,1 +1,3 @@
-# nextjs-vercel-deploy-test
+# Deployment to vercel now.sh
+
+Testing depoloyment to vercel platform. Next JS Application.
